@@ -1,11 +1,8 @@
-[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Data-Science-Projects-with-Python-eLearning
-.svg)](https://github.com/TrainingByPackt/Data-Science-Projects-with-Python-eLearning
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Data-Science-Projects-with-Python-eLearning.svg)](https://github.com/TrainingByPackt/Data-Science-Projects-with-Python-eLearning
 /issues)
-[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Data-Science-Projects-with-Python-eLearning
-.svg)](https://github.com/TrainingByPackt/Data-Science-Projects-with-Python-eLearning
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Data-Science-Projects-with-Python-eLearning.svg)](https://github.com/TrainingByPackt/Data-Science-Projects-with-Python-eLearning
 /network)
-[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Data-Science-Projects-with-Python-eLearning
-.svg)](https://github.com/TrainingByPackt/Data-Science-Projects-with-Python-eLearning
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Data-Science-Projects-with-Python-eLearning.svg)](https://github.com/TrainingByPackt/Data-Science-Projects-with-Python-eLearning
 /stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Data-Science-Projects-with-Python-eLearning
 /pulls)
