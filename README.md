@@ -32,5 +32,5 @@ You'll also need the following software installed in advance:
 * Linux, or the latest version of OS X
 * Browser: Google Chrome/Mozilla Firefox Latest Version
 * Notepad++/Sublime Text as IDE (this is optional, as you can practice everything using the Jupyter Notebook on your browser)
-* Python 3.4+ (latest is Python 3.7) installed (from https://python.org)
+* Python 3.7+ (latest version of Python is recommended) installed (from https://python.org)
 * Python libraries as needed (Jupyter, NumPy, Pandas, Matplotlib, and so on)
